@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FalgunBackup
 
 TODO: Write a gem description
@@ -27,3 +28,9 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+=======
+falgun-backup
+=============
+
+A database backup and restore gem with GUI
+>>>>>>> 9c09b822e15c8e1e37b21bb9b5936d0dedff16ea
